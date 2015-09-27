@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TuLingDemo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    
+    <string-array name="welcome_tips">
+        <item >主人，奴婢在此等候多时了！！！</item>
+        <item >主人，我要带你装逼！！！</item>
+        <item >小莲喜欢笨笨的！！！</item>
+        <item >我叫小莲，很高兴认识你！</item>
+        <item >主人，主人。我要开始装逼了。</item>
+        <item >全世界都在看着我爱你！</item>
+    </string-array>
+
+</resources>
